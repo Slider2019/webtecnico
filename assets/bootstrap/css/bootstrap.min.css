@@ -711,6 +711,18 @@ progress {
     list-style: none
 }
 
+.list-unstyled p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 102, 255);
+}
+
+.list-unstyled .btn{
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
 .list-inline {
     padding-left: 0;
     list-style: none
